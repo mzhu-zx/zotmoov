@@ -17,6 +17,8 @@ zotmoov-settings-other-settings = Other Settings
 
 zotmoov-settings-fileext-title = Allowed File Extensions
 
+zotmoov-settings-git-title = Git Integration (Experimental)
+
 zotmoov-adv-settings-custom-wildcard-title = Custom Wildcards
 
 zotmoov-adv-settings-wc-column-index = Index
@@ -112,6 +114,9 @@ zotmoov-settings-enable-custom-dir-label =
 zotmoov-settings-enable-subdir-move-label =
     .label = Automatically Move/Copy Files to Subdirectory
 
+zotmoov-settings-enable-git-commit-label =
+    .label = Automatically Commit When Making Changes to Directory
+
 zotmoov-settings-behavior-explanation = File Behavior
 
 zotmoov-settings-behavior-move =
@@ -181,3 +186,4 @@ zotmoov-menu-item-ann2note-title = Annotation to Note
 zotmoov-menu-item-ann2note = Add note from annotations
 
 zotmoov-add-att-confirm = Attach <em>{ $filename }</em> as:
+
